@@ -1,0 +1,17 @@
+{
+  "AddUserButton": ".btn-link.pull-right",
+  "FirstName": "[name=FirstName]",
+  "LastName": "[name=LastName]",
+  "UserName": "[name=UserName]",
+  "Password": "[name=Password]",
+  "Company": "[value='15']",
+  "RoleId": "[name=RoleId]",
+  "Email": "[name=Email]",
+  "Mobile": "[name=Mobilephone",
+  "OkButton": ".btn-success",
+  "Search": "input.pull-right",
+  "TableElements": "td.smart-table-data-cell",
+  "Remove": ".icon-remove",
+  "OkRemoveButton": "button.ng-scope.btn-primary",
+  "Elements": ".smart-table-data-cell"
+}
